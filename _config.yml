@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Subash Adhikari"
-  avatar           : "/assets/images/bio-photo-1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal website and some musings."
   location         : "London"
   email            :
