@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Subash Adhikari"
-  avatar           : "/assets/images/bio-photo-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-3.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Personal website and some musings."
   location         : "London"
-  email            :
+  email            : "subashadhikari@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
