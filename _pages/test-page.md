@@ -2,6 +2,8 @@
 layout: single
 title:  "Test Page"
 classes: wide
+
+permalink: /test-page/
 ---
 
 
