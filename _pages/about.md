@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 share: false
-read_time: true
+read_time: false
 
 permalink: /about/
 ---
