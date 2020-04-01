@@ -1,6 +1,6 @@
 ---
 author_profile: false
-share: false
+share: true
 read_time: false
 title: false
 permalink: /ISLR-Solutions/
@@ -12,3 +12,14 @@ Ch 2. [Statistical Learning](https://onmee.github.io/assets/docs/ISLR/Statistica
 
 Ch 3. [Linear Regression](https://onmee.github.io/assets/docs/ISLR/Linear-Regression.pdf) 
 
+Ch 4. [Classification](https://onmee.github.io/assets/docs/ISLR/Classification.pdf)
+
+Ch 5. [Resampling Methods](https://onmee.github.io/assets/docs/ISLR/Resampling-Methods.pdf)
+
+Ch 6. [Linear Model Selection and Regularization](https://onmee.github.io/assets/docs/ISLR/Linear-Model-Selection-and-Regularization.pdf)
+
+Ch 7. [Moving Beyond Linearity](https://onmee.github.io/assets/docs/ISLR/Moving-Beyond-Linearity.pdf)
+
+Ch 8. [Tree Based Methods](https://onmee.github.io/assets/docs/ISLR/Tree-Based-Methods.pdf)
+
+Ch 9. [Support Vector Machines](https://onmee.github.io/assets/docs/ISLR/Support-Vector-Machines.pdf)
