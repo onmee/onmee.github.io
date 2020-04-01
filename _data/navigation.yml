@@ -4,8 +4,8 @@ main:
     url: https://onmee.github.io/
   - title: "About"
     url: https://onmee.github.io/about/
-#  - title: "Sample Posts"
-#    url: /year-archive/
+  - title: "Posts"
+    url: https://onmee.github.io/posts/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
 #  - title: "Sitemap"

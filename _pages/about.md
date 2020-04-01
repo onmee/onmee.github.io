@@ -1,15 +1,17 @@
 ---
 layout: single
+author_profile: True
 title:  "Test Page"
 
 permalink: /about/
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+I am an entrepreneur with a background in the sciences and arts, and I focus on harnessing technological advances to find solutions to important problems.
 
+I studied Physics & Philosophy at University and graduated in 2012. Some argued the contrasting subjects were incompatible, but I thought then and still think now that an education in a STEM subject combined with one in the arts is highly beneficial. They are complementary because there isn't a division between quantitative or qualitative thinking, rather it is a continuum.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+An important 2012 ECJ (European Court of Justice) confirmed that the first-sale doctrine applied to software licenses when certain conditions were met. I co-founded and ran a company that enabled customers to take advantage of the newly established secondary software licensing market.
 
+I am currently interested in the intersection of Machine Learning and its applications commercially in e-commerce and healthcare.
 
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+My interests are wide and varied, but I particularly love travelling. In addition to living in Hong Kong and Germany, I have travelled the world extensively.It had expanded my horizons greatly. Literature, stargazing, movies, music, art exhibitions, theatre, hiking and running beguiles me throughout the year.    
