@@ -4,7 +4,7 @@ author_profile: true
 share: false
 read_time: false
 
-permalink: /about/
+#permalink: /about/
 ---
 ### About Me
 I am an entrepreneur with a background in the sciences and arts, and I focus on harnessing technological advances to find solutions to important problems.

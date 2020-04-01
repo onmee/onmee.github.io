@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: https://onmee.github.io/
+    url: /
   - title: "About"
-    url: https://onmee.github.io/about/
+    url: /about/
   - title: "Posts"
-    url: https://onmee.github.io/posts/
+    url: /posts/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
 #  - title: "Sitemap"
