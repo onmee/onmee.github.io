@@ -1,7 +1,8 @@
 ---
 layout: single
-author_profile: True
-#title:  "About Me"
+author_profile: true
+share: false
+read_time: true
 
 permalink: /about/
 ---
@@ -17,4 +18,4 @@ I am currently interested in the intersection of Machine Learning and its applic
 My interests are wide and varied, but I particularly love travelling. In addition to living in Hong Kong and Germany, I have travelled the world extensively.It had expanded my horizons greatly. Literature, stargazing, movies, music, art exhibitions, theatre, hiking and running beguiles me throughout the year. 
 
 ### CV
-[Resume](https://onmee.github.io/assets/images/bio-photo-3.jpg")
+[Resume](https://onmee.github.io/assets/docs/CV_3.pdf)
