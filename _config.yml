@@ -306,9 +306,4 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
-      
-defaults:
-  header:
-    image: /assets/images/langtang-park-resized.jpg
-    caption: "Photo credit: [**Sergey Pesterev**](https://unsplash.com/@sickle)"
+      related: true      
