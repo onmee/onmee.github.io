@@ -23,3 +23,5 @@ Ch 7. [Moving Beyond Linearity](https://onmee.github.io/assets/docs/ISLR/Moving-
 Ch 8. [Tree Based Methods](https://onmee.github.io/assets/docs/ISLR/Tree-Based-Methods.pdf)
 
 Ch 9. [Support Vector Machines](https://onmee.github.io/assets/docs/ISLR/Support-Vector-Machines.pdf)
+
+Ch 10. [Unsupervised Learning](https://onmee.github.io/assets/docs/ISLR/Unsupervised-Learning.pdf)
